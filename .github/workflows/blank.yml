@@ -28,12 +28,12 @@ jobs:
       # Runs a single command using the runners shell
       - name : updating repo
         run : git pull origin main
-      - name: check node version
-        run: node -v
-      - name : use nvm
-        run : nvm use 12.13.1
-      - name : nvm list
-        run : nvm list
-      - name : node version
-        run : node -v
+     # - name: check node version
+      #  run: node -v
+      #- name : use nvm
+       # run : nvm use 12.13.1
+      #- name : nvm list
+       # run : nvm list
+      #- name : node version
+      #  run : node -v
       

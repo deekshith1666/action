@@ -1,2 +1,6 @@
 this is from the main brancbh
+<<<<<<< HEAD
 added a new line
+=======
+this is added from one
+>>>>>>> origin/one

@@ -8,7 +8,7 @@ trigger:
 - main
 
 pool:
-  vmImage: poolo
+  vmImage: Windows-latest
 
 steps:
 - script: node -v
